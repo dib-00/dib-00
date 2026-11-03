@@ -1,68 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111814,100:4ade80&height=180&section=header&text=Dibyendu%20Mondal&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=I%20build%20things%20that%20think%2C%20move%20and%20ship&descAlignY=60&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050807,50:0b1f17,100:4ade80&height=240&section=header&text=DIBYENDU%20MONDAL&fontColor=4ade80&fontSize=46&fontAlignY=40&stroke=22d3ee&strokeWidth=1&desc=//%20CIRCUIT%20%E2%86%92%20MODEL%20%E2%86%92%20PRODUCT&descAlignY=62&descSize=15&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=4ADE80&center=true&vCenter=true&width=640&lines=AI+%26+Automation+Engineer+%40+SVIST+Innovation+Lab;Humanoid+robots+%C2%B7+AI+agents+%C2%B7+Production+SaaS;Circuit+%E2%86%92+Model+%E2%86%92+Product" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=900&color=4ADE80&center=true&vCenter=true&width=700&height=40&lines=%3E+INITIALIZING+PROFILE...;%3E+AI+%26+AUTOMATION+ENGINEER;%3E+HUMANOIDS+%C2%B7+AGENTS+%C2%B7+SaaS;%3E+STATUS%3A+OPEN+FOR+FREELANCE" />
+
+<br/>
 
 [
 
-![Portfolio](https://img.shields.io/badge/Portfolio-dibyendu--mondal.vercel.app-111814?style=for-the-badge&logo=vercel&logoColor=4ade80)
+![PORTFOLIO](https://img.shields.io/badge/%E2%96%B6_PORTFOLIO-050807?style=for-the-badge&logo=vercel&logoColor=4ade80&labelColor=050807&color=4ade80)
 
 ](https://dibyendu-mondal.vercel.app)
 [
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![LINKEDIN](https://img.shields.io/badge/%E2%96%B6_LINKEDIN-050807?style=for-the-badge&logo=linkedin&logoColor=22d3ee&labelColor=050807&color=22d3ee)
 
 ](https://www.linkedin.com/in/dibyendu-mondal-71b022285)
 [
 
-![Resume](https://img.shields.io/badge/Resume-PDF-4ade80?style=for-the-badge&logoColor=111814)
+![RESUME](https://img.shields.io/badge/%E2%96%B6_RESUME-050807?style=for-the-badge&logoColor=4ade80&labelColor=050807&color=4ade80)
 
 ](https://dibyendu-mondal.vercel.app/resume/dibyendu-mondal-resume.pdf)
 [
 
-![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+![X](https://img.shields.io/badge/%E2%96%B6_X-050807?style=for-the-badge&logo=x&logoColor=22d3ee&labelColor=050807&color=22d3ee)
 
 ](https://x.com/DibyenduMo82951)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 👋 About
-Electronics & Communication engineer (B.Tech, SVIST) who designs the circuit, writes the model and deploys the product. I repair phones, TVs and PCs down to the component, design power electronics, and put AI into hardware.
+## `> SYSTEM://BOOT`
 
-- 🛠️ **AI & Automation Engineer**, SVIST Innovation Lab (Sep 2026 to present)
-- 🎓 Technology Dept., **Robostemia**: robotics and STEM training, custom prototypes
-- 🍽️ Shipped **KhanaOS**, a restaurant POS now live in 20+ outlets
-- 📜 7 certifications across repair, PLC automation, networking and finance
-- 🌐 Bengali · Hindi · English · Japanese (learning)
+```text
+┌──────────────────────────────────────────────────────┐
+│ OPERATOR ........ Dibyendu Mondal                    │
+│ ROLE ............ AI & Automation Engineer           │
+│ BASE ............ SVIST Innovation Lab               │
+│ ALT.UNIT ........ Robostemia // Technology Dept.     │
+│ ORIGIN .......... West Bengal, India                 │
+│ LANGUAGES ....... BN · HI · EN · JP(learning)        │
+│ MODE ............ Hardware × AI × Software           │
+│ STATUS .......... ● ONLINE // OPEN FOR FREELANCE     │
+└──────────────────────────────────────────────────────┘
+```
 
-### 🚀 Selected work
-| Project | What it does | Stack |
-|---|---|---|
-| [**K.I.Y.O.**](https://dibyendu-mondal.vercel.app/projects/kiyo-humanoid) | Humanoid that listens, thinks on-device and answers with its whole body | Raspberry Pi 5, ESP32, VOSK, Piper, llama.cpp |
-| [**AURA**](https://dibyendu-mondal.vercel.app/projects/aura-assistant) | Personal AI operating system for Windows that verifies who is asking before it acts | Python, FastAPI, Postgres + pgvector |
-| [**KhanaOS**](https://dibyendu-mondal.vercel.app/projects/khanaos) | Cloud restaurant POS and billing, in production | Next.js, Supabase, PostgreSQL |
-| [**Asha**](https://dibyendu-mondal.vercel.app/projects/asha-rescue-robot) | Rescue robot prototype for hazardous areas | Arduino, Embedded C, sensors |
-| [**VakLabs**](https://dibyendu-mondal.vercel.app/projects/vaklabs) | Voice cloning on three tiers: your GPU, your machine, or any API | React, FastAPI, CUDA |
-| [**Aimtech Tutor**](https://dibyendu-mondal.vercel.app/projects/aimtech-tutor) | Adaptive exam prep for GATE, JEE, NEET, UPSC, SSC | Flutter, Firebase |
-| [**AIO Universal Lab**](https://aiolab.khanaos.com) | 100+ free browser tools, files processed on-device | React, TypeScript, Supabase |
-| [**LocalDrop**](https://local-share-sepia.vercel.app) | Send files between devices on Wi-Fi, no account | FastAPI, WebSockets |
+## `> MODULES://ACTIVE`
 
-➡️ All 19 projects: **[dibyendu-mondal.vercel.app/projects](https://dibyendu-mondal.vercel.app/projects)**
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### 🧰 Stack
-<img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,react,nextjs,kotlin,flutter,dart,arduino,raspberrypi,postgres,docker,firebase,supabase,vercel,git,github,tailwind,fastapi,pytorch,tensorflow,opencv,unity,blender&perline=13" />
+### ⚙️ MOVE
+**Hardware**
+PCB design · SMPS · Arduino · ESP32 · Raspberry Pi · sensors · micro-soldering
 
-### 📊 Stats
+</td>
+<td width="33%" valign="top">
+
+### 🧠 THINK
+**AI**
+Local LLMs · voice STT/TTS · computer vision · RAG · agentic systems
+
+</td>
+<td width="33%" valign="top">
+
+### 🚀 SHIP
+**Software**
+Next.js · React · Flutter · FastAPI · Supabase · Firebase · Docker
+
+</td>
+</tr>
+</table>
+
+## `> MISSIONS://FEATURED`
+
+| ID | CODENAME | BRIEFING | STACK |
+|:--:|:--|:--|:--|
+| `U1` | [**K.I.Y.O.**](https://dibyendu-mondal.vercel.app/projects/kiyo-humanoid) | Humanoid that listens, thinks on-device, answers with its whole body | `Pi 5` `ESP32` `llama.cpp` |
+| `U2` | [**AURA**](https://dibyendu-mondal.vercel.app/projects/aura-assistant) | Personal AI OS that verifies who's asking before it acts | `Python` `FastAPI` `pgvector` |
+| `U3` | [**KhanaOS**](https://dibyendu-mondal.vercel.app/projects/khanaos) | Cloud restaurant POS, live in 20+ outlets | `Next.js` `Supabase` |
+| `U4` | [**Asha**](https://dibyendu-mondal.vercel.app/projects/asha-rescue-robot) | Rescue robot for places people shouldn't go first | `Arduino` `Embedded C` |
+| `U5` | [**VakLabs**](https://dibyendu-mondal.vercel.app/projects/vaklabs) | Voice cloning on GPU, local or API tiers | `React` `FastAPI` `CUDA` |
+| `U6` | [**Aimtech Tutor**](https://dibyendu-mondal.vercel.app/projects/aimtech-tutor) | Adaptive exam prep that plays like a game | `Flutter` `Firebase` |
+
+**[▶ ACCESS ALL 19 MISSIONS](https://dibyendu-mondal.vercel.app/projects)**
+
+## `> ARSENAL://LOADED`
+
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dib-00&show_icons=true&theme=dark&hide_border=true&bg_color=111814&title_color=4ade80&icon_color=4ade80" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dib-00&layout=compact&theme=dark&hide_border=true&bg_color=111814&title_color=4ade80" />
+<img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,react,nextjs,kotlin,flutter,arduino,raspberrypi,postgres,docker,firebase,supabase,vercel,fastapi,pytorch,tensorflow,opencv,git,tailwind,unity,blender&perline=13&theme=dark" />
 </div>
 
-### 📫 Work with me
-Open to **freelance builds and collaborations** in embedded AI, robotics and full-stack products.
-👉 [dibyendu-mondal.vercel.app/contact](https://dibyendu-mondal.vercel.app/contact)
+## `> TELEMETRY://LIVE`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ade80,100:111814&height=100&section=footer" />
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dib-00&show_icons=true&hide_border=true&bg_color=050807&title_color=4ade80&icon_color=22d3ee&text_color=b6f7d0&ring_color=4ade80" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dib-00&layout=compact&hide_border=true&bg_color=050807&title_color=4ade80&text_color=b6f7d0" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dib-00&bg_color=050807&color=4ade80&line=22d3ee&point=ffffff&area=true&area_color=4ade80&hide_border=true" width="100%" />
+
+</div>
+
+## `> CONTRIBUTION://SNAKE`
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dib-00/dib-00/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/dib-00/dib-00/output/github-snake.svg" />
+</picture>
+</div>
+
+## `> COMMS://OPEN`
+
+<div align="center">
+
+**Open channel for freelance builds, embedded AI and full-stack products.**
+
+[**▶ TRANSMIT MESSAGE**](https://dibyendu-mondal.vercel.app/contact)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ade80,50:0b1f17,100:050807&height=110&section=footer" />
+
+</div>
