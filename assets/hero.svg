@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="320" viewBox="0 0 840 320" role="img" aria-label="Dibyendu Mondal, AI and Automation Engineer, Kolkata. Circuit, model, product.">
+  <title>Dibyendu Mondal · AI &amp; Automation Engineer · Circuit → Model → Product</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#040705"/>
+      <stop offset="0.6" stop-color="#07120c"/>
+      <stop offset="1" stop-color="#0c2419"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.8" cy="0.5" r="0.45">
+      <stop offset="0" stop-color="#4ade80" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#4ade80" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" x2="1">
+      <stop offset="0" stop-color="#4ade80"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f2a1e"/>
+      <stop offset="1" stop-color="#14532d"/>
+    </linearGradient>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#4ade80" opacity="0.10"/>
+    </pattern>
+    <clipPath id="card"><rect x="1" y="1" width="838" height="318" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .traces path { fill: none; stroke: #1f6b45; stroke-width: 1.4; }
+    .pulse { fill: none; stroke: #4ade80; stroke-width: 2.2; stroke-linecap: round;
+              stroke-dasharray: 14 400; stroke-dashoffset: 414; animation: run 3s linear infinite; }
+    .rot { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 15px; fill: #b6f7d0; opacity: 0;
+            animation: rot 12.8s ease-in-out infinite; }
+    .core { animation: core 2.4s ease-in-out infinite; }
+    .blink { animation: blink 1.6s ease-in-out infinite; }
+    @keyframes run { to { stroke-dashoffset: 0; } }
+    @keyframes rot { 0% { opacity: 0; transform: translateY(8px); } 3.0% { opacity: 1; transform: none; }
+                      21.2% { opacity: 1; transform: none; } 25.0%, 100% { opacity: 0; transform: translateY(-8px); } }
+    @keyframes core { 0%, 100% { opacity: .55; } 50% { opacity: 1; } }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: .2; } }
+    @media (prefers-reduced-motion: reduce) {
+      .pulse, .core, .blink { animation: none; }
+      .rot { animation: none; } .rot:first-of-type { opacity: 1; }
+    }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="840" height="320" fill="url(#bg)"/>
+    <rect width="840" height="320" fill="url(#grid)"/>
+    <rect width="840" height="320" fill="url(#glow)"/>
+    <g class="traces">
+    <path d="M630.0 130 H590.0 V104 H510.0"/>
+    <path d="M722.0 130 H750.0 V112 H820"/>
+    <path d="M630.0 150 H572.0 V124 H510.0"/>
+    <path d="M722.0 150 H764.0 V132 H820"/>
+    <path d="M630.0 170 H590.0 V196 H510.0"/>
+    <path d="M722.0 170 H750.0 V188 H820"/>
+    <path d="M630.0 190 H572.0 V216 H510.0"/>
+    <path d="M722.0 190 H764.0 V208 H820"/>
+    <path d="M652 114.0 V88.0 H682 V20"/>
+    <path d="M652 206.0 V228.0 H618 V300"/>
+    <path d="M676 114.0 V80.0 H706 V20"/>
+    <path d="M676 206.0 V236.0 H642 V300"/>
+    <path d="M700 114.0 V72.0 H730 V20"/>
+    <path d="M700 206.0 V244.0 H666 V300"/>
+    </g>
+    <g>
+    <path class="pulse" style="animation-delay:0.00s" d="M630.0 130 H590.0 V104 H510.0"/>
+    <path class="pulse" style="animation-delay:0.37s" d="M722.0 130 H750.0 V112 H820"/>
+    <path class="pulse" style="animation-delay:0.74s" d="M630.0 150 H572.0 V124 H510.0"/>
+    <path class="pulse" style="animation-delay:1.11s" d="M722.0 150 H764.0 V132 H820"/>
+    <path class="pulse" style="animation-delay:1.48s" d="M630.0 170 H590.0 V196 H510.0"/>
+    <path class="pulse" style="animation-delay:1.85s" d="M722.0 170 H750.0 V188 H820"/>
+    <path class="pulse" style="animation-delay:2.22s" d="M630.0 190 H572.0 V216 H510.0"/>
+    <path class="pulse" style="animation-delay:2.59s" d="M722.0 190 H764.0 V208 H820"/>
+    <path class="pulse" style="animation-delay:2.96s" d="M652 114.0 V88.0 H682 V20"/>
+    <path class="pulse" style="animation-delay:0.33s" d="M652 206.0 V228.0 H618 V300"/>
+    <path class="pulse" style="animation-delay:0.70s" d="M676 114.0 V80.0 H706 V20"/>
+    <path class="pulse" style="animation-delay:1.07s" d="M676 206.0 V236.0 H642 V300"/>
+    <path class="pulse" style="animation-delay:1.44s" d="M700 114.0 V72.0 H730 V20"/>
+    <path class="pulse" style="animation-delay:1.81s" d="M700 206.0 V244.0 H666 V300"/>
+    </g>
+  </g>
+  <rect x="1" y="1" width="838" height="318" rx="18" fill="none" stroke="#1f6b45" stroke-width="1.2"/>
+
+  <!-- chip -->
+  <g fill="#4ade80" opacity="0.85">
+    <rect x="623.0" y="127" width="7" height="6" rx="1"/>
+    <rect x="722.0" y="127" width="7" height="6" rx="1"/>
+    <rect x="623.0" y="147" width="7" height="6" rx="1"/>
+    <rect x="722.0" y="147" width="7" height="6" rx="1"/>
+    <rect x="623.0" y="167" width="7" height="6" rx="1"/>
+    <rect x="722.0" y="167" width="7" height="6" rx="1"/>
+    <rect x="623.0" y="187" width="7" height="6" rx="1"/>
+    <rect x="722.0" y="187" width="7" height="6" rx="1"/>
+    <rect x="649" y="107.0" width="6" height="7" rx="1"/>
+    <rect x="649" y="206.0" width="6" height="7" rx="1"/>
+    <rect x="673" y="107.0" width="6" height="7" rx="1"/>
+    <rect x="673" y="206.0" width="6" height="7" rx="1"/>
+    <rect x="697" y="107.0" width="6" height="7" rx="1"/>
+    <rect x="697" y="206.0" width="6" height="7" rx="1"/>
+  </g>
+  <rect x="630.0" y="114.0" width="92" height="92" rx="10" fill="url(#chip)" stroke="#4ade80" stroke-width="1.5"/>
+  <rect class="core" x="654" y="138" width="44" height="44" rx="6" fill="none" stroke="#22d3ee" stroke-width="1.5"/>
+  <text x="676" y="166" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="16" font-weight="700" fill="#4ade80">DM</text>
+  <circle cx="642.0" cy="126.0" r="3" fill="#4ade80" opacity="0.8"/>
+
+  <!-- text -->
+  <circle class="blink" cx="54" cy="66" r="4.5" fill="#22d3ee"/>
+  <text x="68" y="71" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" letter-spacing="2" fill="#22d3ee">AI &amp; AUTOMATION ENGINEER · KOLKATA, INDIA</text>
+  <text x="46" y="140" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-0.5" fill="#f0fdf4">Dibyendu</text>
+  <text x="46" y="200" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-0.5" fill="url(#name)">Mondal</text>
+  <rect x="48" y="226" width="34" height="2" fill="#4ade80"/>
+  <text x="92" y="231" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" letter-spacing="3" fill="#4ade80">CIRCUIT → MODEL → PRODUCT</text>
+  <text class="rot" style="animation-delay:0.0s" x="48" y="264">Humanoids that listen and think on-device</text>
+    <text class="rot" style="animation-delay:3.2s" x="48" y="264">AI agents that check who&#8217;s asking before they act</text>
+    <text class="rot" style="animation-delay:6.4s" x="48" y="264">A restaurant POS running in 20+ outlets</text>
+    <text class="rot" style="animation-delay:9.6s" x="48" y="264">Embedded systems, from PCB to firmware</text>
+  <text x="48" y="296" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="2" fill="#4ade80" opacity="0.6">HARDWARE × AI × SOFTWARE</text>
+</svg>

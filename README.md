@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050807,50:0b1f17,100:4ade80&height=240&section=header&text=DIBYENDU%20MONDAL&fontColor=4ade80&fontSize=46&fontAlignY=40&stroke=22d3ee&strokeWidth=1&desc=//%20CIRCUIT%20%E2%86%92%20MODEL%20%E2%86%92%20PRODUCT&descAlignY=62&descSize=15&animation=fadeIn" />
+<p>
+  <img src="assets/hero.svg" alt="Dibyendu Mondal, AI &amp; Automation Engineer in Kolkata. Circuit → Model → Product." width="100%" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=900&color=4ADE80&center=true&vCenter=true&width=700&height=40&lines=%3E+INITIALIZING+PROFILE...;%3E+AI+%26+AUTOMATION+ENGINEER;%3E+HUMANOIDS+%C2%B7+AGENTS+%C2%B7+SaaS;%3E+STATUS%3A+OPEN+FOR+FREELANCE" />
 
 <br/>
 
@@ -23,7 +24,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050807,50:4ade80,100:050807&height=2&section=header" width="100%" />
+<img src="assets/divider.svg" alt="" width="100%" />
 
 <a id="about"></a>
 <p><img src="assets/headers/about.svg" alt="About me" width="100%" /></p>
