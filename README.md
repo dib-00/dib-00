@@ -25,7 +25,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050807,50:4ade80,100:050807&height=2&section=header" width="100%" />
 
-## `> SYSTEM://BOOT`
+<a id="about"></a>
+<p><img src="assets/headers/about.svg" alt="About me" width="100%" /></p>
 
 <table>
 <tr>
@@ -60,7 +61,8 @@
 </tr>
 </table>
 
-## `> MODULES://ACTIVE`
+<a id="what-i-do"></a>
+<p><img src="assets/headers/what-i-do.svg" alt="What I do" width="100%" /></p>
 
 <table>
 <tr>
@@ -88,7 +90,8 @@ Next.js · React · Flutter · FastAPI · Supabase · Firebase · Docker
 </tr>
 </table>
 
-## `> MISSIONS://FEATURED`
+<a id="projects"></a>
+<p><img src="assets/headers/projects.svg" alt="Featured projects" width="100%" /></p>
 
 | ID | CODENAME | BRIEFING | STACK |
 |:--:|:--|:--|:--|
@@ -101,7 +104,7 @@ Next.js · React · Flutter · FastAPI · Supabase · Firebase · Docker
 
 **[▶ ACCESS ALL 19 MISSIONS](https://dibyendu-mondal.vercel.app/projects)**
 
-### `OPEN SOURCE`
+#### 📦 Open source on GitHub
 
 <table>
 <tr>
@@ -118,7 +121,8 @@ Next.js · React · Flutter · FastAPI · Supabase · Firebase · Docker
 </tr>
 </table>
 
-## `> ARSENAL://LOADED`
+<a id="stack"></a>
+<p><img src="assets/headers/stack.svg" alt="Tech stack" width="100%" /></p>
 
 <table>
 <tr>
@@ -177,7 +181,8 @@ Next.js · React · Flutter · FastAPI · Supabase · Firebase · Docker
 </tr>
 </table>
 
-## `> TELEMETRY://LIVE`
+<a id="stats"></a>
+<p><img src="assets/headers/stats.svg" alt="By the numbers" width="100%" /></p>
 
 <div align="center">
 
@@ -198,7 +203,8 @@ Next.js · React · Flutter · FastAPI · Supabase · Firebase · Docker
 
 </div>
 
-## `> CONTRIBUTION://SNAKE`
+<a id="activity"></a>
+<p><img src="assets/headers/activity.svg" alt="Contribution activity" width="100%" /></p>
 
 <div align="center">
 <picture>
@@ -207,7 +213,8 @@ Next.js · React · Flutter · FastAPI · Supabase · Firebase · Docker
 </picture>
 </div>
 
-## `> COMMS://OPEN`
+<a id="connect"></a>
+<p><img src="assets/headers/connect.svg" alt="Let's connect" width="100%" /></p>
 
 <div align="center">
 
