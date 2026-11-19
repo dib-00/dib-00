@@ -6,26 +6,12 @@
 
 <br/>
 
-[
-
-![PORTFOLIO](https://img.shields.io/badge/%E2%96%B6_PORTFOLIO-050807?style=for-the-badge&logo=vercel&logoColor=4ade80&labelColor=050807&color=4ade80)
-
-](https://dibyendu-mondal.vercel.app)
-[
-
-![LINKEDIN](https://img.shields.io/badge/%E2%96%B6_LINKEDIN-050807?style=for-the-badge&logo=linkedin&logoColor=22d3ee&labelColor=050807&color=22d3ee)
-
-](https://www.linkedin.com/in/dibyendu-mondal-71b022285)
-[
-
-![RESUME](https://img.shields.io/badge/%E2%96%B6_RESUME-050807?style=for-the-badge&logoColor=4ade80&labelColor=050807&color=4ade80)
-
-](https://dibyendu-mondal.vercel.app/resume/dibyendu-mondal-resume.pdf)
-[
-
-![X](https://img.shields.io/badge/%E2%96%B6_X-050807?style=for-the-badge&logo=x&logoColor=22d3ee&labelColor=050807&color=22d3ee)
-
-](https://x.com/DibyenduMo82951)
+<p align="center">
+  <a href="https://dibyendu-mondal.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/%E2%96%B6_PORTFOLIO-050807?style=for-the-badge&logo=vercel&logoColor=4ade80&labelColor=050807&color=4ade80" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/dibyendu-mondal-71b022285"><img alt="LinkedIn" src="https://img.shields.io/badge/%E2%96%B6_LINKEDIN-050807?style=for-the-badge&logo=linkedin&logoColor=22d3ee&labelColor=050807&color=22d3ee" /></a>&nbsp;
+  <a href="https://dibyendu-mondal.vercel.app/resume/dibyendu-mondal-resume.pdf"><img alt="Resume (PDF)" src="https://img.shields.io/badge/%E2%96%B6_RESUME-050807?style=for-the-badge&logo=readthedocs&logoColor=4ade80&labelColor=050807&color=4ade80" /></a>&nbsp;
+  <a href="https://x.com/DibyenduMo82951"><img alt="X" src="https://img.shields.io/badge/%E2%96%B6_X-050807?style=for-the-badge&logo=x&logoColor=22d3ee&labelColor=050807&color=22d3ee" /></a>
+</p>
 
 </div>
 
@@ -98,10 +84,20 @@ Next.js · React · Flutter · FastAPI · Supabase · Firebase · Docker
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dib-00&show_icons=true&hide_border=true&bg_color=050807&title_color=4ade80&icon_color=22d3ee&text_color=b6f7d0&ring_color=4ade80" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dib-00&layout=compact&hide_border=true&bg_color=050807&title_color=4ade80&text_color=b6f7d0" />
+<table>
+<tr>
+<td align="center" width="25%"><h2>19</h2><sub><code>PROJECTS BUILT</code></sub></td>
+<td align="center" width="25%"><h2>4</h2><sub><code>PRODUCTS LIVE</code></sub></td>
+<td align="center" width="25%"><h2>20+</h2><sub><code>OUTLETS ON KHANAOS</code></sub></td>
+<td align="center" width="25%"><h2>7</h2><sub><code>CERTIFICATES</code></sub></td>
+</tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=dib-00&hide_border=true&background=050807&stroke=0b1f17&ring=4ade80&fire=22d3ee&currStreakNum=4ade80&sideNums=b6f7d0&currStreakLabel=4ade80&sideLabels=b6f7d0&dates=6b8f7d" height="190" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dib-00&bg_color=050807&color=4ade80&line=22d3ee&point=ffffff&area=true&area_color=4ade80&hide_border=true" width="100%" />
+
+<sub>Most of my work lives in private client and product repos; the full list is on <a href="https://dibyendu-mondal.vercel.app/projects">my portfolio</a>.</sub>
 
 </div>
 
