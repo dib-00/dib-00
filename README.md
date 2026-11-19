@@ -29,7 +29,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050807,50:4ade80,100:050807&height=2&section=header" width="100%" />
 
 ## `> SYSTEM://BOOT`
 
@@ -39,7 +39,8 @@
 │ ROLE ............ AI & Automation Engineer           │
 │ BASE ............ SVIST Innovation Lab               │
 │ ALT.UNIT ........ Robostemia // Technology Dept.     │
-│ ORIGIN .......... West Bengal, India                 │
+│ ORIGIN .......... Kolkata, India                     │
+│ EDUCATION ....... B.Tech ECE · MAKUT (SVIST)         │
 │ LANGUAGES ....... BN · HI · EN · JP(learning)        │
 │ MODE ............ Hardware × AI × Software           │
 │ STATUS .......... ● ONLINE // OPEN FOR FREELANCE     │
