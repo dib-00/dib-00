@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="230" viewBox="0 0 840 230" role="img" aria-label="Have a build in mind? Start a conversation">
+  <title>Have a build in mind? Start a conversation</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050807"/>
+      <stop offset="0.65" stop-color="#08140e"/>
+      <stop offset="1" stop-color="#0f2a1e"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.15" r="0.6">
+      <stop offset="0" stop-color="#4ade80" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#4ade80" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="btn" x1="0" x2="1">
+      <stop offset="0" stop-color="#4ade80"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#4ade80" opacity="0.12"/>
+    </pattern>
+    <clipPath id="card"><rect x="1" y="1" width="838" height="228" rx="16"/></clipPath>
+  </defs>
+  <style>
+    .ring { transform-origin: 678px 115px; animation: ping 2.8s ease-out infinite; }
+    .arrow { animation: nudge 1.8s ease-in-out infinite; }
+    @keyframes ping { 0% { opacity: .6; transform: scale(1); } 80%, 100% { opacity: 0; transform: scale(1.18); } }
+    @keyframes nudge { 0%, 100% { transform: translateX(0); } 50% { transform: translateX(4px); } }
+    @media (prefers-reduced-motion: reduce) { .ring, .arrow { animation: none; } }
+  </style>
+  <g clip-path="url(#card)">
+    <rect width="840" height="230" fill="url(#bg)"/>
+    <rect width="840" height="230" fill="url(#grid)"/>
+    <rect width="840" height="230" fill="url(#glow)"/>
+  </g>
+  <rect x="1" y="1" width="838" height="228" rx="16" fill="none" stroke="#1f6b45" stroke-width="1.2"/>
+
+  <text x="44" y="62" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" letter-spacing="2" fill="#22d3ee">● OPEN FOR FREELANCE</text>
+  <text x="44" y="108" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="700" fill="#ecfdf3">Have a build in mind?</text>
+  <text x="44" y="142" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#b6f7d0">Embedded AI, robotics and full-stack products,</text>
+  <text x="44" y="165" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#b6f7d0">from the circuit to the deploy.</text>
+  <text x="44" y="199" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" letter-spacing="1.5" fill="#4ade80" opacity="0.75">BASED IN KOLKATA, INDIA</text>
+
+  <rect class="ring" x="560" y="89" width="236" height="52" rx="26" fill="none" stroke="#4ade80" stroke-width="1.5" opacity="0"/>
+  <rect x="560" y="89" width="236" height="52" rx="26" fill="url(#btn)"/>
+  <text x="664" y="121" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#050807">Start a conversation</text>
+  <g class="arrow"><text x="756" y="121.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" fill="#050807">→</text></g>
+</svg>

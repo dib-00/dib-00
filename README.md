@@ -216,12 +216,17 @@ Next.js · React · Flutter · FastAPI · Supabase · Firebase · Docker
 <a id="connect"></a>
 <p><img src="assets/headers/connect.svg" alt="Let's connect" width="100%" /></p>
 
-<div align="center">
+<p align="center">
+  <a href="https://dibyendu-mondal.vercel.app/contact"><img src="assets/connect-card.svg" alt="Have a build in mind? Start a conversation" width="100%" /></a>
+</p>
 
-**Open channel for freelance builds, embedded AI and full-stack products.**
+<p align="center">
+  <a href="https://dibyendu-mondal.vercel.app/contact"><img alt="Contact" src="https://img.shields.io/badge/%E2%96%B6_CONTACT-050807?style=for-the-badge&logo=maildotru&logoColor=4ade80&labelColor=050807&color=4ade80" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/dibyendu-mondal-71b022285"><img alt="LinkedIn" src="https://img.shields.io/badge/%E2%96%B6_LINKEDIN-050807?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iIzIyZDNlZSIvPjx0ZXh0IHg9IjEyIiB5PSIxNy41IiBmb250LWZhbWlseT0iQXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSI3MDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiMwNTA4MDciPmluPC90ZXh0Pjwvc3ZnPg%3D%3D&labelColor=050807&color=22d3ee" /></a>&nbsp;
+  <a href="https://x.com/DibyenduMo82951"><img alt="X" src="https://img.shields.io/badge/%E2%96%B6_X-050807?style=for-the-badge&logo=x&logoColor=22d3ee&labelColor=050807&color=22d3ee" /></a>&nbsp;
+  <a href="https://dibyendu-mondal.vercel.app/resume/dibyendu-mondal-resume.pdf"><img alt="Resume (PDF)" src="https://img.shields.io/badge/%E2%96%B6_RESUME-050807?style=for-the-badge&logo=readthedocs&logoColor=4ade80&labelColor=050807&color=4ade80" /></a>
+</p>
 
-[**▶ TRANSMIT MESSAGE**](https://dibyendu-mondal.vercel.app/contact)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ade80,50:0b1f17,100:050807&height=110&section=footer" />
-
-</div>
+<p align="center">
+  <img src="assets/footer.svg" alt="Dibyendu Mondal. Circuit → Model → Product" width="100%" />
+</p>
