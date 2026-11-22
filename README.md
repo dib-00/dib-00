@@ -1,7 +1,7 @@
 <div align="center">
 
 <p>
-  <img src="assets/hero.svg" alt="Dibyendu Mondal, AI &amp; Automation Engineer in Kolkata. Circui → Model → Product." width="100%" />
+  <img src="assets/hero.svg" alt="Dibyendu Mondal, AI &amp; Automation Engineer in Kolkata. Circuit → Model → Product." width="100%" />
 </p>
 
 
